@@ -20,3 +20,13 @@ tests.py
 Все тесты выполнены успешно
 ##Gitclone
 git clone https://github.com/ababva/lubix
+
+#Файл a.png
+![image](https://github.com/user-attachments/assets/88d62e2d-acd2-44c3-b9ba-f4e15f984b67)
+*При приближении изображение становится нормальным
+
+#Запуск
+python .\main.py --package <пакет> --output <Путь к .png файлу> --depth <глубина>
+<пакет> - Указание репозитория, откуда парсится
+<Путь к .png файлу> - Путь к файлу, где будет генерироваться граф
+
