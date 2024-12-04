@@ -19,7 +19,7 @@ tests.py
 ![image](https://github.com/user-attachments/assets/2eb79c82-16a3-4264-9b57-508cb3a6b5a9)
 Все тесты выполнены успешно
 # Gitclone
-git clone https://github.com/ababva/lubix
+```git clone https://github.com/ababva/lubix```
 
 # Файл a.png
 ![image](https://github.com/user-attachments/assets/88d62e2d-acd2-44c3-b9ba-f4e15f984b67)
