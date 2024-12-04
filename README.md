@@ -11,7 +11,7 @@
 ## main: управляет процессом извлечения зависимостей, построения графа и его визуализации на основе входных параметров.
 ![image](https://github.com/user-attachments/assets/45b14128-8e79-4b97-b51b-7660eb8b312e)
 
-## Тесты tests.py
+# Тесты tests.py
 tests.py
 ![image](https://github.com/user-attachments/assets/57181008-561e-498e-bcdb-43219c982ddc)
 
